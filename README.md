@@ -10,7 +10,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-EE0000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 
-# 🌱 I’m currently learning
+# 🌱 I’m currently learing
 -  **Currently Diving Into:** IaC with **Terraform** & **Ansible**
 -  **Next Milestone:** Mastering **CI/CD** Pipelines
 
@@ -18,27 +18,14 @@
 
 - [x] Containerize applications with Docker
 - [x] Deploy workloads to Kubernetes
-- [ ] Deploy to AWS (EKS / EC2)
+- [ ] AWS/GCP deployment 
 - [ ] Infrastructure as Code with Terraform
 - [ ] CI/CD pipeline with GitHub Actions
-- [ ] Monitoring with Prometheus & Grafana
+- [x] Monitoring with Prometheus & Grafana
 
 ## 🤝 Let's Collaborate!
- I am actively looking to get involved in projects involving:
-* **Virtualization:** Proxmox VE
-* **Cloud Native:** Openshift Kubernetes and Docker
-* **Deployments:** Automating infrastructure with Terraform and Ansible.
-* **Cloud** GCP/AWS
   
-# 🤔 I’m looking for help with
--  **The Big Leap:** Transitioning from bare-metal/local deployments to **Public Cloud Providers** (AWS/GCP)
--  Networking 
--  Cloud deployments 
-
 # 📫 How to reach me: 
   Linkedin  
   Email
-  
-
-⚡ Fun fact:
---> If it’s not breaking, you’re not learning 🛠️
+  sean123_hill@hotmail.com
