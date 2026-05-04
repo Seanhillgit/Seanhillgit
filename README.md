@@ -8,6 +8,7 @@
 ![OpenShift](https://img.shields.io/badge/openshift-%23f05032.svg?style=for-the-badge&logo=openshift&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-EE0000?style=for-the-badge&logo=proxmox&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 # 🌱 I’m currently learing
