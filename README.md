@@ -18,7 +18,7 @@
 
 - [x] Containerize applications with Docker
 - [x] Deploy workloads to Kubernetes
-- [ ] AWS/GCP deployment 
+- [x] AWS/GCP deployment 
 - [ ] Infrastructure as Code with Terraform
 - [ ] CI/CD pipeline with GitHub Actions
 - [x] Monitoring with Prometheus & Grafana
