@@ -1,6 +1,5 @@
-## Hello there 👋
 
- # 🔭 What I’m currently working on
+ # 🔭 Currently working on
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -11,16 +10,16 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-# 🌱 I’m currently learing
+# 🌱 Currently learning
 -  **Currently Diving Into:** IaC with **Terraform** & **Ansible**
 -  **Next Milestone:** Mastering **CI/CD** Pipelines
 
-  ## 🛣️ DevOps Roadmap
+  ## 🛣️ Roadmap
 
-- [x] Containerize applications with Docker
+- [x] Containerise applications with Docker
 - [x] Deploy workloads to Kubernetes
 - [x] AWS/GCP deployment 
-- [ ] Infrastructure as Code with Terraform
+- [x] Infrastructure as Code with Terraform
 - [ ] CI/CD pipeline with GitHub Actions
 - [x] Monitoring with Prometheus & Grafana
 
@@ -28,5 +27,5 @@
   
 # 📫 How to reach me: 
   Linkedin  
-  Email
+  Email:
   sean123_hill@hotmail.com
